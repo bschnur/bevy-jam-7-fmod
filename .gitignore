@@ -6,3 +6,4 @@ Logs/
 [Bb]uild/
 .profiler/
 .restore/
+.DS_Store
