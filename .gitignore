@@ -3,3 +3,6 @@
 .unsaved/
 *.log
 Logs/
+[Bb]uild/
+.profiler/
+.restore/
