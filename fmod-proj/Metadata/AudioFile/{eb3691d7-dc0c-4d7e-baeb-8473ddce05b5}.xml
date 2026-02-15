@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{eb3691d7-dc0c-4d7e-baeb-8473ddce05b5}">
+		<property name="assetPath">
+			<value>chillopen.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>58.105145833333331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6fc73f62-ad4a-47e6-8ffb-08c4aeb033b5}</destination>
+		</relationship>
+	</object>
+</objects>
